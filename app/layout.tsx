@@ -4,6 +4,7 @@ import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
 import { Playfair_Display } from "next/font/google"
 import "./globals.css"
+import { CartProvider } from "@/lib/cart-context"
 
 const playfairDisplay = Playfair_Display({
   subsets: ["latin"],
@@ -83,7 +84,7 @@ export const metadata: Metadata = {
     yandex: "your-yandex-verification-code",
   },
   category: "technology",
-    generator: 'v0.app'
+  generator: "v0.app",
 }
 
 export default function RootLayout({
@@ -140,7 +141,7 @@ export default function RootLayout({
         />
       </head>
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} ${playfairDisplay.variable} antialiased`}>
-        {children}
+        <CartProvider>{children}</CartProvider>
       </body>
     </html>
   )

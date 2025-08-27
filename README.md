@@ -3,6 +3,7 @@
 *A modern reimagining of boAt's official website built with Next.js 15 and Tailwind CSS*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/garimabstpr-5945s-projects/v0-build-it-fast)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/joxQpd20KTu)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
@@ -219,5 +220,6 @@ For support and questions:
 
 ---
 
-**Built - The AI-powered development platform**
+**Built with ❤️ using [v0.app](https://v0.app) - The AI-powered development platform**
 
+*Continue building and deploying at: [https://v0.app/chat/projects/joxQpd20KTu](https://v0.app/chat/projects/joxQpd20KTu)*
